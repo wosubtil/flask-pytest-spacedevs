@@ -1,3 +1,4 @@
+tests/integration/snapshots/
 *.sqlite
 .vscode
 # Byte-compiled / optimized / DLL files
